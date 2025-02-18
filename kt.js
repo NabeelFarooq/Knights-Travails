@@ -1,31 +1,3 @@
-/*
-const knightMoves = (srcArray,destArray) => {
-
-const traverse= () => {
-    // Its basic move is two steps forward and one step to the side or 
-    // one step forward and two steps to the side. It can face any direction.
-
-
-}
-
-
-
-
-
-
-
-return {
-    traverse
-}
-
-
-
-
-
-}
-
-knightMoves([3,3],[4,3])*/
-
 // Build game board array
 function buildBoard() {
   let board = [];
